@@ -73,7 +73,7 @@ class BasicBot:
                 self.get_all_symbols()
 
         elif options.lower() == 'exit':
-            logging.info('Thank for using our App. See you soon!')
+            logging.info('Thanks for using our App. See you soon!')
 
     def check_connection(self):
         """Use this method for check the Connection is good or not."""
